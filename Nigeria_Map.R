@@ -1,5 +1,6 @@
 
-DATA<-read.csv("C:\\R Stat\\datanigeria.csv",header=T)
+DATA<-read.csv("https://github.com/weoweo74/HospitalLocator.git\datanigeria.csv",header=T)
+
 str(DATA)
 (q)
 summary(DATA)
