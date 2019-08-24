@@ -1,4 +1,4 @@
-ibrary(shiny)
+library(shiny)
 library(leaflet)
 
 DATA<-read.csv("https://github.com/weoweo74/HospitalLocator.git\\datanigeria.csv",header=T)
