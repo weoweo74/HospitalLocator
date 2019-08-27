@@ -1,8 +1,5 @@
 DATA<-read.csv("https://github.com/weoweo74/HospitalLocator.git\\datanigeria.csv",header=T)
 str(DATA)
-(q)
-summary(DATA)
-head(DATA)
 
 # First Second and Third Column with All rows
 DATA[,c(1,1:3)]
