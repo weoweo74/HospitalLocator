@@ -1,4 +1,4 @@
-DATA<-read.csv("https://github.com/weoweo74/HospitalLocator.git\\datanigeria.csv",header=T)
+DATA<-read.csv("https://github.com/weoweo74/HospitalLocator.git//datanigeria.csv",header=T)
 str(DATA)
 
 # First Second and Third Column with All rows
